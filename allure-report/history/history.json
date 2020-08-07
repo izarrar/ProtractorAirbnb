@@ -1,0 +1,61 @@
+{
+  "a4690064647dc03625409229e4bf58e6" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "133f135d2b07d3bf",
+      "status" : "failed",
+      "statusDetails" : "Failed: Cannot read property '0' of undefined",
+      "time" : {
+        "start" : 1596793106970,
+        "stop" : 1596793107885,
+        "duration" : 915
+      }
+    } ]
+  },
+  "312a29c7405c0ee72d51da232abd362b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e69fcef1e5595c72",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596793094607,
+        "stop" : 1596793102893,
+        "duration" : 8286
+      }
+    } ]
+  },
+  "2d0bfae5c58d20c64599c53a90d508b4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "280ed4c37c0b648e",
+      "status" : "failed",
+      "statusDetails" : "Failed: stale element reference: element is not attached to the page document\n                  (Session info: chrome=84.0.4147.105)\n                  (Driver info: chromedriver=83.0.4103.14 (be04594a2b8411758b860104bc0a1033417178be-refs/branch-heads/4103@{#119}),platform=Windows NT 10.0.18362 x86_64)",
+      "time" : {
+        "start" : 1596793102894,
+        "stop" : 1596793106970,
+        "duration" : 4076
+      }
+    } ]
+  }
+}
