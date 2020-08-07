@@ -1,0 +1,43 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Failed: stale element reference: element is not attached to the page document\n                  (Session info: chrome=84.0.4147.105)\n                  (Driver info: chromedriver=83.0.4103.14 (be04594a2b8411758b860104bc0a1033417178be-refs/branch-heads/4103@{#119}),platform=Windows NT 10.0.18362 x86_64)",
+      "children" : [ {
+        "name" : "Verify that the results and details page match the extra filters",
+        "uid" : "280ed4c37c0b648e",
+        "parentUid" : "6545cb813c8965a5bbb3527e6c6e2df8",
+        "status" : "failed",
+        "time" : {
+          "start" : 1596793102894,
+          "stop" : 1596793106970,
+          "duration" : 4076
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6545cb813c8965a5bbb3527e6c6e2df8"
+    }, {
+      "name" : "Failed: Cannot read property '0' of undefined",
+      "children" : [ {
+        "name" : "Verify that a property is displayed on the map correctly",
+        "uid" : "133f135d2b07d3bf",
+        "parentUid" : "5b14a63be6ed994c3097eff3de9fa975",
+        "status" : "failed",
+        "time" : {
+          "start" : 1596793106970,
+          "stop" : 1596793107885,
+          "duration" : 915
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5b14a63be6ed994c3097eff3de9fa975"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}
